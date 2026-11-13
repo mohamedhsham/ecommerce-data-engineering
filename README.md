@@ -44,7 +44,6 @@ ecommerce-data-engineering/
 ├── flows/
 ├── docker-compose.yml
 ├── .env.example
-├── .env  (i added that so that others know the credintals)
 ├── .gitignore
 └── README.md
 ```
