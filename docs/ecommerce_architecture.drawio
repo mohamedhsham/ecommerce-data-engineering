@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="XDg-3eEGAOK2ZQ0B_zx8">
+    <mxGraphModel dx="820" dy="589" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Amtw4dPBLjZgIAe8nY6F-7" edge="1" parent="1" source="Amtw4dPBLjZgIAe8nY6F-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="Amtw4dPBLjZgIAe8nY6F-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Amtw4dPBLjZgIAe8nY6F-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span&gt;Data Source — E-commerce CSV&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="195" x="365" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Amtw4dPBLjZgIAe8nY6F-8" edge="1" parent="1" source="Amtw4dPBLjZgIAe8nY6F-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="Amtw4dPBLjZgIAe8nY6F-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Amtw4dPBLjZgIAe8nY6F-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span&gt;Python Ingestion — Extract, Clean, Validate&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="195" x="365" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="Amtw4dPBLjZgIAe8nY6F-9" edge="1" parent="1" source="Amtw4dPBLjZgIAe8nY6F-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="Amtw4dPBLjZgIAe8nY6F-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Amtw4dPBLjZgIAe8nY6F-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span&gt;PostgreSQL — Database Storage&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="195" x="365" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="Amtw4dPBLjZgIAe8nY6F-10" edge="1" parent="1" source="Amtw4dPBLjZgIAe8nY6F-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="Amtw4dPBLjZgIAe8nY6F-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Amtw4dPBLjZgIAe8nY6F-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;span&gt;Kestra — Workflow Orchestration&lt;/span&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="195" x="365" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="Amtw4dPBLjZgIAe8nY6F-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&#xa;&lt;div&gt;&lt;div&gt;&lt;div&gt;&lt;table&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td&gt;&lt;span&gt;Dashboard — Sales Analytics&lt;/span&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;h3&gt;&lt;/h3&gt;&#xa;&#xa;" vertex="1">
+          <mxGeometry height="60" width="195" x="365" y="460" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
