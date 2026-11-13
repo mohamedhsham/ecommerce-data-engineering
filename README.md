@@ -53,7 +53,7 @@ ecommerce-data-engineering/
 
 ### 1. Clone the repository
 
-git clone <repository-url>
+git clone https://github.com/mohamedhsham/ecommerce-data-engineering.git
 
 ### 2. Enter the project directory
 
